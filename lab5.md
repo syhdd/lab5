@@ -1,10 +1,10 @@
 # CMake Tutorial
 ## Step 1
 ### Screenshot
-![step1/step1.png](step2/step1.png)
+![step1/step1.png](step1.png)
 ## Step 2
 ### Screenshot
-![step2/step2.png](step2/step2.png)
+![step2/step2.png](step2.png)
 ## Step 3
 ### CMakeLists.txt
 Link: [step3/CMakeLists.txt](step3/CMakeLists.txt)
@@ -23,7 +23,7 @@ Link: [step5/CMakeLists.txt](CMakeLists.txt)
 ### MathFunctions/CMakeLists.txt
 Link: [step5/MathFunctions/CMakeLists.txt](step5/MathFunctions/CMakeLists.txt)
 ### Screenshot
-![step5/step5.png](step5/step5.png)
+![step5/step5.png](step5.png)
 # Lab Example
 
 ## My Makefile (Mac OSX)

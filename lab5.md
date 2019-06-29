@@ -28,7 +28,7 @@ Link: [step5/MathFunctions/CMakeLists.txt](Step5/MathFunctions/CMakeLists.txt)
 ![step5/step5.png](step5.png)
 # Lab Example
 
-## My Makefile (Mac OSX)
+## My Makefile
 Link: [Makefile](Makefile)
 ```make
 all: dynamic_block static_block

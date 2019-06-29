@@ -69,7 +69,7 @@ target_link_libraries(static_block static)
 ```
 
 ## CMake Makefile
-Link: [CMakefile2](CMakefile2)
+Link: [CMakefile2](Makefile2)
 
 ```make
 # CMAKE generated file: DO NOT EDIT!

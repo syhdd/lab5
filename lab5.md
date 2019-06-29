@@ -1,10 +1,10 @@
 # CMake Tutorial
 ## Step 1
 ### Screenshot
-![step1/step1.png](step1/step1.png)
+![step1/step1.png](step1.png)
 ## Step 2
 ### Screenshot
-![step2/step2.png](step2/step2.png)
+![step2/step2.png](step2.png)
 ## Step 3
 ### CMakeLists.txt
 Link: [step3/CMakeLists.txt](step3/CMakeLists.txt)
@@ -14,7 +14,7 @@ target_include_directories(MathFunctions
             INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
 ```
 ### Screenshot
-![step3/step3.png](step3/step3.png)
+![step3/step3.png](step3.png)
 
 
 ## Step 4
@@ -102,12 +102,12 @@ install (TARGETS MathFunctions DESTINATION bin)
 install (FILES MathFunctions.h DESTINATION include)
 ```
 ### Screenshot
-![step4/step4.png](step4/step4.png)
+![step4/step4.png](step4.png)
 
 
 ## Step 5
 ### CMakeLists.txt
-Link: [step5/CMakeLists.txt](step5/CMakeLists.txt)
+Link: [step5/CMakeLists.txt](CMakeLists.txt)
 ```cmake
 cmake_minimum_required(VERSION 3.3)
 project(Tutorial)

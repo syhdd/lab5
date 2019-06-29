@@ -1,29 +1,29 @@
 # CMake Tutorial
 ## Step 1
 ### Screenshot
-Link: [step1/CMakeLists.txt](step1/CMakeLists.txt)
+Link: [step1/CMakeLists.txt](Step1/CMakeLists.txt)
 ![step1/step1.png](step1.png)
 ## Step 2
 ### Screenshot
-Link: [step2/CMakeLists.txt](step2/CMakeLists.txt)
+Link: [step2/CMakeLists.txt](Step2/CMakeLists.txt)
 ![step2/step2.png](step2.png)
 ## Step 3
 ### CMakeLists.txt
-Link: [step3/CMakeLists.txt](step3/CMakeLists.txt)
+Link: [step3/CMakeLists.txt](Step3/CMakeLists.txt)
 ### Screenshot
 ![step3/step3.png](step3.png)
 ## Step 4
 ### CMakeLists.txt
-Link: [step4/CMakeLists.txt](step4/CMakeLists.txt)
+Link: [step4/CMakeLists.txt](Step4/CMakeLists.txt)
 ### MathFunctions/CMakeLists.txt
-Link: [step4/MathFunctions/CMakeLists.txt](step4/MathFunctions/CMakeLists.txt)
+Link: [step4/MathFunctions/CMakeLists.txt](Step4/MathFunctions/CMakeLists.txt)
 ### Screenshot
 ![step4/step4.png](step4.png)
 ## Step 5
 ### CMakeLists.txt
-Link: [step5/CMakeLists.txt](CMakeLists.txt)
+Link: [step5/CMakeLists.txt](Step5/CMakeLists.txt)
 ### MathFunctions/CMakeLists.txt
-Link: [step5/MathFunctions/CMakeLists.txt](step5/MathFunctions/CMakeLists.txt)
+Link: [step5/MathFunctions/CMakeLists.txt](Step5/MathFunctions/CMakeLists.txt)
 ### Screenshot
 ![step5/step5.png](step5.png)
 # Lab Example
